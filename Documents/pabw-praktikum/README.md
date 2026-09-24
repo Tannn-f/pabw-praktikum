@@ -15,4 +15,4 @@ Topik halaman saya: Daftar film yang pernah saya tonton
 - Kolom form: Judul Film, Tahun Rilis, Rating Saya
 - Gambar: poster-film.webp
 
-# Catatan Penggunaan Film
+# Catatan Penggunaan AI
